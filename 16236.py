@@ -3,7 +3,7 @@
 import sys
 from collections import deque
 
-sys.stdin = open("16236.txt", "r")
+sys.stdin = open("testcase/16236.txt", "r")
 
 def main():
     N = int(sys.stdin.readline())

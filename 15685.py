@@ -5,7 +5,7 @@
 import sys
 from collections import deque
 
-sys.stdin = open("15685.txt", "r")
+sys.stdin = open("testcase/15685.txt", "r")
 
 def print_mat(board):
     for b in board:

@@ -5,7 +5,7 @@
 import sys
 from itertools import permutations
 
-sys.stdin = open("14888.txt", "r")
+sys.stdin = open("testcase/14888.txt", "r")
 
 min_res = 1e6 # sys.maxsize 
 max_res = -1e6 # -sys.maxsize - 1

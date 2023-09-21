@@ -3,7 +3,7 @@
 import sys
 from itertools import combinations
 
-sys.stdin = open("14889.txt", "r")
+sys.stdin = open("testcase/14889.txt", "r")
 
 answer = 1e9
 

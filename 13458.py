@@ -4,7 +4,7 @@
 import sys
 import math
 
-sys.stdin = open("13458.txt", "r")
+sys.stdin = open("testcase/13458.txt", "r")
 
 def main():
     N = int(sys.stdin.readline()) # 시험장 개수

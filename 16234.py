@@ -4,7 +4,7 @@
 import sys
 from collections import deque
 
-sys.stdin = open("16234.txt", "r")
+sys.stdin = open("testcase/16234.txt", "r")
 
 def print_mat(earth):
     for i in range(len(earth)):

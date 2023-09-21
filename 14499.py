@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open("14499.txt", "r")
+sys.stdin = open("testcase/14499.txt", "r")
 
 def main():
     N, M, y, x, K = map(int, sys.stdin.readline().split(" "))

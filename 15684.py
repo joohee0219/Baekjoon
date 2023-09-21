@@ -5,7 +5,7 @@
 
 import sys
 
-sys.stdin = open("15684.txt", "r")
+sys.stdin = open("testcase/15684.txt", "r")
 
 def print_mat(board):
     for b in board:

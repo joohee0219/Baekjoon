@@ -1,7 +1,7 @@
 import sys
 from itertools import combinations
 
-sys.stdin = open("15686.txt", "r")
+sys.stdin = open("testcase/15686.txt", "r")
 
 def main():
     N, M = map(int, sys.stdin.readline().split(" "))

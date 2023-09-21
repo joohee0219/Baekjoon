@@ -8,7 +8,7 @@ import sys
 from collections import deque
 
 def main():
-    #sys.stdin = open("14502.txt", "r")
+    #sys.stdin = open("testcase/14502.txt", "r")
     N, M = map(int, sys.stdin.readline().split(" "))
     lab = [[0 for _ in range(M)] for _ in range(N)]
     empty = []

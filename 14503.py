@@ -2,7 +2,7 @@
 
 import sys
 
-sys.stdin = open("14503.txt", "r")
+sys.stdin = open("testcase/14503.txt", "r")
 
 def print_mat(room):
     for i in range(len(room)):

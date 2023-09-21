@@ -6,7 +6,7 @@
 # visited 리스트를 이중 for loop안에서 매번 새로 만들어주기보다는, 그렸다가 지웠다가 하는 방법 (재활용)이 시간 효율이 더 좋다
 import sys
 
-sys.stdin = open("14500.txt", "r")
+sys.stdin = open("testcase/14500.txt", "r")
 
 def main():
     N, M  = map(int, sys.stdin.readline().split(" "))

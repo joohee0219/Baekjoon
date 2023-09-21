@@ -2,7 +2,7 @@
 # dp **
 import sys
 
-sys.stdin = open("14501.txt", "r")
+sys.stdin = open("testcase/14501.txt", "r")
 
 answer = 0
 def main():

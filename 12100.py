@@ -6,7 +6,7 @@
 import sys
 from copy import deepcopy
 
-sys.stdin = open("12100.txt", "r")
+sys.stdin = open("testcase/12100.txt", "r")
 
 def print_mat(board):
     for i in range(len(board)):

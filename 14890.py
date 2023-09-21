@@ -1,7 +1,7 @@
 # 경사로
 
 import sys
-sys.stdin = open("14890.txt", "r") #
+sys.stdin = open("testcase/14890.txt", "r") #
 
 def main():
     N, L = map(int, sys.stdin.readline().split(" "))

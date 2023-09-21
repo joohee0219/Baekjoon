@@ -5,7 +5,7 @@
 import sys
 from copy import deepcopy
 
-sys.stdin = open("14891.txt", "r")
+sys.stdin = open("testcase/14891.txt", "r")
 
 def main():
     wheels = [list(map(int, list(sys.stdin.readline().strip()))) for _ in range(4)]

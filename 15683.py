@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open("15683.txt", "r")
+sys.stdin = open("testcase/15683.txt", "r")
 
 def print_mat(mat):
     for i in range(len(mat)):
