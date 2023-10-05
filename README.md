@@ -6,3 +6,4 @@
 |23291|[어항정리](https://www.acmicpc.net/problem/23291)|구현|다시풀어보기|
 |16236|[아기상어](https://www.acmicpc.net/problem/16236)|구현, 그래프탐색(BFS)|다시풀어보기|
 |17144|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|구현||
+|16235|[나무 재테크](https://www.acmicpc.net/problem/16235)|구현, 자료구조|시간초과 헬|
