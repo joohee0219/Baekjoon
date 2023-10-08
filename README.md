@@ -11,3 +11,4 @@
 |17140|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|구현||
 |17142|[연구소 3](https://www.acmicpc.net/problem/17142)|완전탐색, BFS|완탐+BFS 연습하기 좋은문제|
 |17779|[게리맨더링 2](https://www.acmicpc.net/problem/17779)|구현||
+|17837|[새로운 게임 2](https://www.acmicpc.net/problem/17837)|구현|
